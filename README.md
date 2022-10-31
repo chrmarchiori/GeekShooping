@@ -1,0 +1,1 @@
+GeekShooping é um projeto desenvolvido para aprendizado da arquitetura de Micro Serviços, utilizando .net e C#.
